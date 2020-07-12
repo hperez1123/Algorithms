@@ -22,6 +22,6 @@ public class Solution {
  * 
  * we open start {} after Solution. Inside is [public static void main(String[]
  * args)], where main() is the method of the program. public static void is the
- * method's modifiers. Static helps with memory and Void helps with . (String[]
- * args) designates that incoming argument are strings.
+ * method's modifiers. Static helps with memory. (String[] args) designates that
+ * incoming argument are strings. Notes have more indepth explanation.
  */
